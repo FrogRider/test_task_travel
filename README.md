@@ -1,4 +1,4 @@
-to run project:
+to run project: <br />
     1) install node.js
     2) open terminal and navigate to the folder
     3) run command: npm install 
